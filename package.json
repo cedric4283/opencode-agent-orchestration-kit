@@ -1,0 +1,10 @@
+{
+  "name": "opencode-agent-orchestration-kit",
+  "version": "0.1.0",
+  "description": "Open-source multi-agent orchestration harness for OpenCode \u2014 specialized agents, durable workflows, research, planning, implementation, review, and validation.",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "node --test"
+  },
+  "license": "MIT"
+}
