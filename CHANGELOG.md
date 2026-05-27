@@ -34,3 +34,4 @@
 - fix: add a note about the defaults
 - fix: fix a small wording issue
 - chore: link the usage section
+- fix: add a note about the defaults
